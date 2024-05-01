@@ -1,0 +1,4 @@
+creati o aplicati unde aveti un numar initial 0 si doua butoane cu add 1 si minus 1
+apasand pe unu din ele cifra pe ecran se va schimba in dependenta de butonul 
+apasat
+rezultatul trebuie sa ramie pe pagina chiar daca fac refresh a pagina.
